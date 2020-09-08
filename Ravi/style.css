@@ -1,0 +1,27 @@
+body{
+    background-color: #F8F6F8;
+    color:hsl(257, 15%, 18%);
+    font-size: 20px;
+text-align: center;
+}
+form{
+    margin: auto;
+    max-width: 400px;
+    text-align: left;
+    
+    color: #30443E;
+}
+    
+legend{
+    font-weight: 590px;
+}
+#submit{
+    background-color: #117392;
+    color:white;
+    font-weight: bold;
+    margin: 4px;
+    padding: 10px 15px;
+}
+div{
+    text-align: center;
+}
